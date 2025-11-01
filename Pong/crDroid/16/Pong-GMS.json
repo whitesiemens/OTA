@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "deadlylxrd",
+            "oem": "Nothing",
+            "device": "Phone (2)",
+            "filename": "crDroidAndroid-16.0-20251101-Pong-v12.2-GAPPS.zip",
+            "download": "https://github.com/whitesiemens/OTA/releases/download/crDroidAndroid-16.0-20251101-Pong-v12.2-GAPPS/crDroidAndroid-16.0-20251101-Pong-v12.2-GAPPS.zip",
+            "timestamp": 1761431241,
+            "md5": "e7c9784a058485dd4334e56129bb04e9",
+            "sha256": "d1643bb488e6bf3649df546750fca596056a83217c5302c999f351491a841f9d",
+            "size": 1942510171,
+            "version": "12.2",
+            "buildtype": "Monthly",
+            "forum": "https://4pda.to/forum/index.php?showtopic=1074202",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/deadlylxrd",
+            "dt": "https://github.com/Pong-Development/device_nothing_Pong",
+            "common-dt": "",
+            "kernel": "https://github.com/whitesiemens/kernel_nothing_sm8475"
+        }
+    ]
+}
