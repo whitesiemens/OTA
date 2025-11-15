@@ -3,26 +3,26 @@
         {
             "maintainer": "deadlylxrd",
             "oem": "Nothing",
-            "device": "Phone (2)",
-            "filename": "crDroidAndroid-16.0-20251101-Pong-v12.2.zip",
-            "download": "https://github.com/whitesiemens/OTA/releases/download/crDroidAndroid-16.0-20251101-Pong-v12.2/crDroidAndroid-16.0-20251101-Pong-v12.2.zip",
-            "timestamp": 1761431241,
-            "md5": "e7c9784a058485dd4334e56129bb04e9",
-            "sha256": "d1643bb488e6bf3649df546750fca596056a83217c5302c999f351491a841f9d",
-            "size": 1942510171,
-            "version": "12.2",
+            "device": "Nothing Phone (2)",
+            "filename": "crDroidAndroid-16.0-20251115-Pong-v12.3.zip",
+            "download": "https://dl.deadlylxrd.ru/ROMs/NP2/crDroid/16.0/crDroidAndroid-16.0-20251115-Pong-v12.3.zip",
+            "timestamp": 1763234566,
+            "md5": "b0bf50e81c1d15c7455948e258373447",
+            "sha256": "a330612d94af57626d8af365d3c76177a32927b45062e990a9f6538aa31e5947",
+            "size": 1910590015,
+            "version": "12.3",
             "buildtype": "Monthly",
-            "forum": "https://4pda.to/forum/index.php?showtopic=1074202",
+            "forum": "https://t.me/NothingPhone2",
             "gapps": "https://nikgapps.com/crdroid-official",
             "firmware": "",
             "modem": "",
             "bootloader": "",
-            "recovery": "",
+            "recovery": "https://orangefox.download/device/65199f3867d66175d4001fae",
             "paypal": "",
             "telegram": "https://t.me/deadlylxrd",
-            "dt": "https://github.com/Pong-Development/device_nothing_Pong",
+            "dt": "https://github.com/whitesiemens/android_device_nothing_Pong",
             "common-dt": "",
-            "kernel": "https://github.com/whitesiemens/kernel_nothing_sm8475"
+            "kernel": "https://github.com/whitesiemens/android_kernel_nothing_sm8475"
         }
     ]
 }

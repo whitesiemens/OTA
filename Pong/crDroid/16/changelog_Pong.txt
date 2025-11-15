@@ -1,0 +1,23 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Nothing Phone (2) (Pong)
+Device maintainer: deadlylxrd
+
+===== 15th November, 2025 =====
+* crDroid:
+  - Update to 12.3 (November 2025 ASB)
+* Kernel:
+  - Linux v5.10.245 merged
+  - Merge tags: 
+    - KERNEL.PLATFORM.1.0.r1-19400-kernel.0, KERNEL.PLATFORM.1.0.r3-06900-kernel.0
+    - LA.VENDOR.1.0.r1-28700-WAIPIO.QSSI16.0
+    - CAMERA.LA.2.0.r1-13100-WAIPIO.0, CAMERA.LA.2.0.r2-06000-WAIPIO.0
+    - VIDEO.LA.2.0.r1-11800-WAIPIO.0
+    - WLAN.LA.1.1.r1-02600-WAIPIO.0
+  - Now SukiSU Ultra with SUSFS included out of the box
+* Device: 
+  - Glyph Schedule feature
+  - Now the builds are signed with my keys, so a clean installation is required
+  
+===== 3th November, 2025 =====
+* crDorid 12.2 initial release
