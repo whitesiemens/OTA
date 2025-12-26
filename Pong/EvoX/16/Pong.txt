@@ -1,0 +1,17 @@
+This is Android 16 with December 2025 security patches
+
+Notes:
+==============================
+LineageOS-based source. Signed build.
+
+Device changes:
+==============================
+Clean base synced with latest Evolution X source
+Initial Official Evolution X 11.5.1 build
+Update proprietary blobs from Pong_B4.0-251119-1654
+Ship with firmware from Pong_B4.0-251119-1654
+Update CarrierConfig to LA.QSSI.16.0.r1-06700-qssi.0
+
+Notable ROM changes:
+==============================
+Evolution X 11.5.1 with Android 16 QPR1 and GrapheneOS security patches merged
